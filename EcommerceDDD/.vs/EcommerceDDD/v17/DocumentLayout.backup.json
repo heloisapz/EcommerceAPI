@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\infra\\Desktop\\ApiCurso\\EcommerceDDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94177F55-9FEA-47FF-834A-739B86538859}|ApplicationApp\\ApplicationApp.csproj|c:\\users\\infra\\desktop\\apicurso\\ecommerceddd\\applicationapp\\interfaces\\interfacegenericaapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94177F55-9FEA-47FF-834A-739B86538859}|ApplicationApp\\ApplicationApp.csproj|solutionrelative:applicationapp\\interfaces\\interfacegenericaapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94177F55-9FEA-47FF-834A-739B86538859}|ApplicationApp\\ApplicationApp.csproj|c:\\users\\infra\\desktop\\apicurso\\ecommerceddd\\applicationapp\\interfaces\\interfaceproductapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94177F55-9FEA-47FF-834A-739B86538859}|ApplicationApp\\ApplicationApp.csproj|solutionrelative:applicationapp\\interfaces\\interfaceproductapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483EB05F-23DC-4DD8-BDCA-1EBB652710C6}|Domain\\Domain.csproj|c:\\users\\infra\\desktop\\apicurso\\ecommerceddd\\domain\\services\\serviceproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483EB05F-23DC-4DD8-BDCA-1EBB652710C6}|Domain\\Domain.csproj|solutionrelative:domain\\services\\serviceproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AAA950E-4A73-4D9C-BA77-212360DB636F}|Entities\\Entities.csproj|c:\\users\\infra\\desktop\\apicurso\\ecommerceddd\\entities\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AAA950E-4A73-4D9C-BA77-212360DB636F}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483EB05F-23DC-4DD8-BDCA-1EBB652710C6}|Domain\\Domain.csproj|c:\\users\\infra\\desktop\\apicurso\\ecommerceddd\\domain\\interfaces\\interfaceservices\\iserviceproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483EB05F-23DC-4DD8-BDCA-1EBB652710C6}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservices\\iserviceproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483EB05F-23DC-4DD8-BDCA-1EBB652710C6}|Domain\\Domain.csproj|c:\\users\\infra\\desktop\\apicurso\\ecommerceddd\\domain\\interfaces\\interfaceproduct\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483EB05F-23DC-4DD8-BDCA-1EBB652710C6}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceproduct\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InterfaceProductApp.cs",
+              "DocumentMoniker": "C:\\Users\\infra\\Desktop\\ApiCurso\\EcommerceDDD\\ApplicationApp\\Interfaces\\InterfaceProductApp.cs",
+              "RelativeDocumentMoniker": "ApplicationApp\\Interfaces\\InterfaceProductApp.cs",
+              "ToolTip": "C:\\Users\\infra\\Desktop\\ApiCurso\\EcommerceDDD\\ApplicationApp\\Interfaces\\InterfaceProductApp.cs",
+              "RelativeToolTip": "ApplicationApp\\Interfaces\\InterfaceProductApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:55:46.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InterfaceGenericaApp.cs",
+              "DocumentMoniker": "C:\\Users\\infra\\Desktop\\ApiCurso\\EcommerceDDD\\ApplicationApp\\Interfaces\\InterfaceGenericaApp.cs",
+              "RelativeDocumentMoniker": "ApplicationApp\\Interfaces\\InterfaceGenericaApp.cs",
+              "ToolTip": "C:\\Users\\infra\\Desktop\\ApiCurso\\EcommerceDDD\\ApplicationApp\\Interfaces\\InterfaceGenericaApp.cs",
+              "RelativeToolTip": "ApplicationApp\\Interfaces\\InterfaceGenericaApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:53:24.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\infra\\Desktop\\ApiCurso\\EcommerceDDD\\Entities\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "Entities\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\infra\\Desktop\\ApiCurso\\EcommerceDDD\\Entities\\Entities\\Produto.cs",
+              "RelativeToolTip": "Entities\\Entities\\Produto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:51:14.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceProduct.cs",
+              "DocumentMoniker": "C:\\Users\\infra\\Desktop\\ApiCurso\\EcommerceDDD\\Domain\\Services\\ServiceProduct.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\ServiceProduct.cs",
+              "ToolTip": "C:\\Users\\infra\\Desktop\\ApiCurso\\EcommerceDDD\\Domain\\Services\\ServiceProduct.cs",
+              "RelativeToolTip": "Domain\\Services\\ServiceProduct.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:41:30.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServiceProduct.cs",
+              "DocumentMoniker": "C:\\Users\\infra\\Desktop\\ApiCurso\\EcommerceDDD\\Domain\\Interfaces\\InterfaceServices\\IServiceProduct.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServices\\IServiceProduct.cs",
+              "ToolTip": "C:\\Users\\infra\\Desktop\\ApiCurso\\EcommerceDDD\\Domain\\Interfaces\\InterfaceServices\\IServiceProduct.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServices\\IServiceProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:39:40.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\infra\\Desktop\\ApiCurso\\EcommerceDDD\\Domain\\Interfaces\\InterfaceProduct\\IProduct.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceProduct\\IProduct.cs",
+              "ToolTip": "C:\\Users\\infra\\Desktop\\ApiCurso\\EcommerceDDD\\Domain\\Interfaces\\InterfaceProduct\\IProduct.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfaceProduct\\IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:37:54.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

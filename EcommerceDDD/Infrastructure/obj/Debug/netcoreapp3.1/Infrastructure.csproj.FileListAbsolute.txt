@@ -1,0 +1,9 @@
+C:\Users\infra\Desktop\ApiCurso\EcommerceDDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\infra\Desktop\ApiCurso\EcommerceDDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\infra\Desktop\ApiCurso\EcommerceDDD\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\infra\Desktop\ApiCurso\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infra\Desktop\ApiCurso\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\infra\Desktop\ApiCurso\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\infra\Desktop\ApiCurso\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\infra\Desktop\ApiCurso\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\infra\Desktop\ApiCurso\EcommerceDDD\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
