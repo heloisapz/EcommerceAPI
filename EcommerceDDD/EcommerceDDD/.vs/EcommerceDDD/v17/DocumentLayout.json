@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\infra\\Downloads\\EcommerceDDD (1)\\EcommerceDDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|c:\\users\\infra\\downloads\\ecommerceddd (1)\\ecommerceddd\\web_ecommerce\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|solutionrelative:web_ecommerce\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D196355-F49A-4217-B505-4EA51B74C18B}|Entities\\Entities.csproj|c:\\users\\infra\\downloads\\ecommerceddd (1)\\ecommerceddd\\entities\\notifications\\notifies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D196355-F49A-4217-B505-4EA51B74C18B}|Entities\\Entities.csproj|solutionrelative:entities\\notifications\\notifies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\infra\\Downloads\\EcommerceDDD (1)\\EcommerceDDD\\Web_ECommerce\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Web_ECommerce\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\infra\\Downloads\\EcommerceDDD (1)\\EcommerceDDD\\Web_ECommerce\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Web_ECommerce\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T13:27:56.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Notifies.cs",
+              "DocumentMoniker": "C:\\Users\\infra\\Downloads\\EcommerceDDD (1)\\EcommerceDDD\\Entities\\Notifications\\Notifies.cs",
+              "RelativeDocumentMoniker": "Entities\\Notifications\\Notifies.cs",
+              "ToolTip": "C:\\Users\\infra\\Downloads\\EcommerceDDD (1)\\EcommerceDDD\\Entities\\Notifications\\Notifies.cs",
+              "RelativeToolTip": "Entities\\Notifications\\Notifies.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:41:20.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

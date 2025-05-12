@@ -1,9 +1,0 @@
-C:\Users\infra\Desktop\ApiCurso\EcommerceDDD\ApplicationApp\bin\Debug\netcoreapp3.1\ApplicationApp.deps.json
-C:\Users\infra\Desktop\ApiCurso\EcommerceDDD\ApplicationApp\bin\Debug\netcoreapp3.1\ApplicationApp.dll
-C:\Users\infra\Desktop\ApiCurso\EcommerceDDD\ApplicationApp\bin\Debug\netcoreapp3.1\ApplicationApp.pdb
-C:\Users\infra\Desktop\ApiCurso\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\infra\Desktop\ApiCurso\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.AssemblyInfoInputs.cache
-C:\Users\infra\Desktop\ApiCurso\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.AssemblyInfo.cs
-C:\Users\infra\Desktop\ApiCurso\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.csproj.CoreCompileInputs.cache
-C:\Users\infra\Desktop\ApiCurso\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.dll
-C:\Users\infra\Desktop\ApiCurso\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.pdb
