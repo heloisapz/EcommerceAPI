@@ -5357,11 +5357,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\infra\\Downloads\\EcommerceDDD (1)\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\infra\\Downloads\\EcommerceDDD (1)\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\infra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\infra\\Downloads\\EcommerceDDD (1)\\EcommerceDDD\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5382,11 +5382,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\infra\\Downloads\\EcommerceDDD (1)\\EcommerceDDD\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\infra\\Downloads\\EcommerceDDD (1)\\EcommerceDDD\\Domain\\Domain.csproj"
+            "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\infra\\Downloads\\EcommerceDDD (1)\\EcommerceDDD\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\infra\\Downloads\\EcommerceDDD (1)\\EcommerceDDD\\Entities\\Entities.csproj"
+            "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Entities\\Entities.csproj"
             }
           }
         }

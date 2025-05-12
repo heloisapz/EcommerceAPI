@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Domain
-build_property.ProjectDir = C:\Users\infra\Downloads\EcommerceDDD (1)\EcommerceDDD\Domain\
+build_property.ProjectDir = C:\Users\infra\Desktop\Ecommerce\EcommerceAPI\EcommerceDDD\EcommerceDDD\Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
