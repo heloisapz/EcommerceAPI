@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|c:\\users\\infra\\desktop\\ecommerce\\ecommerceapi\\ecommerceddd\\ecommerceddd\\web_ecommerce\\wwwroot\\js\\jsprodutosvenda.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|solutionrelative:web_ecommerce\\wwwroot\\js\\jsprodutosvenda.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{BBBE57BF-196B-4B61-AE15-48073B8DD1DC}|Infrastructure\\Infrastructure.csproj|c:\\users\\infra\\desktop\\ecommerce\\ecommerceapi\\ecommerceddd\\ecommerceddd\\infrastructure\\migrations\\20250513153211_updatebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBE57BF-196B-4B61-AE15-48073B8DD1DC}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20250513153211_updatebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|c:\\users\\infra\\desktop\\ecommerce\\ecommerceapi\\ecommerceddd\\ecommerceddd\\web_ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|solutionrelative:web_ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBE57BF-196B-4B61-AE15-48073B8DD1DC}|Infrastructure\\Infrastructure.csproj|c:\\users\\infra\\desktop\\ecommerce\\ecommerceapi\\ecommerceddd\\ecommerceddd\\infrastructure\\configuration\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBE57BF-196B-4B61-AE15-48073B8DD1DC}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configuration\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|c:\\users\\infra\\desktop\\ecommerce\\ecommerceapi\\ecommerceddd\\ecommerceddd\\web_ecommerce\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|solutionrelative:web_ecommerce\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|c:\\users\\infra\\desktop\\ecommerce\\ecommerceapi\\ecommerceddd\\ecommerceddd\\web_ecommerce\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AF8E897-E98D-45F6-92BC-19D379F39707}|Web_ECommerce\\Web_ECommerce.csproj|solutionrelative:web_ecommerce\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05D295E5-1F86-4D8F-96C2-F8C78BEA1A7D}|ApplicationApp\\ApplicationApp.csproj|c:\\users\\infra\\desktop\\ecommerce\\ecommerceapi\\ecommerceddd\\ecommerceddd\\applicationapp\\openapp\\appproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,18 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{05D295E5-1F86-4D8F-96C2-F8C78BEA1A7D}|ApplicationApp\\ApplicationApp.csproj|c:\\users\\infra\\desktop\\ecommerce\\ecommerceapi\\ecommerceddd\\ecommerceddd\\applicationapp\\interfaces\\interfaceproductapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05D295E5-1F86-4D8F-96C2-F8C78BEA1A7D}|ApplicationApp\\ApplicationApp.csproj|solutionrelative:applicationapp\\interfaces\\interfaceproductapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|c:\\users\\infra\\desktop\\ecommerce\\ecommerceapi\\ecommerceddd\\ecommerceddd\\domain\\services\\serviceproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|solutionrelative:domain\\services\\serviceproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|c:\\users\\infra\\desktop\\ecommerce\\ecommerceapi\\ecommerceddd\\ecommerceddd\\domain\\interfaces\\interfaceservices\\iserviceproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservices\\iserviceproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|c:\\users\\infra\\desktop\\ecommerce\\ecommerceapi\\ecommerceddd\\ecommerceddd\\domain\\interfaces\\interfaceproduct\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C930362-19BD-4B4C-A6C7-6EAED4C02576}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceproduct\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,105 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "jsProdutosVenda.js",
-              "DocumentMoniker": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\wwwroot\\js\\jsProdutosVenda.js",
-              "RelativeDocumentMoniker": "Web_ECommerce\\wwwroot\\js\\jsProdutosVenda.js",
-              "ToolTip": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\wwwroot\\js\\jsProdutosVenda.js",
-              "RelativeToolTip": "Web_ECommerce\\wwwroot\\js\\jsProdutosVenda.js",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-13T11:50:25.542Z",
+              "Title": "20250513153211_UpdateBase.cs",
+              "DocumentMoniker": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Migrations\\20250513153211_UpdateBase.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20250513153211_UpdateBase.cs",
+              "ToolTip": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Migrations\\20250513153211_UpdateBase.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20250513153211_UpdateBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:32:12.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Web_ECommerce\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Web_ECommerce\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T11:48:16.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppProduct.cs",
-              "DocumentMoniker": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\ApplicationApp\\OpenApp\\AppProduct.cs",
-              "RelativeDocumentMoniker": "ApplicationApp\\OpenApp\\AppProduct.cs",
-              "ToolTip": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\ApplicationApp\\OpenApp\\AppProduct.cs",
-              "RelativeToolTip": "ApplicationApp\\OpenApp\\AppProduct.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAkwEgAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T11:38:53.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "InterfaceProductApp.cs",
-              "DocumentMoniker": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\ApplicationApp\\Interfaces\\InterfaceProductApp.cs",
-              "RelativeDocumentMoniker": "ApplicationApp\\Interfaces\\InterfaceProductApp.cs",
-              "ToolTip": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\ApplicationApp\\Interfaces\\InterfaceProductApp.cs",
-              "RelativeToolTip": "ApplicationApp\\Interfaces\\InterfaceProductApp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T11:38:29.954Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\appsettings.json",
+              "RelativeDocumentMoniker": "Web_ECommerce\\appsettings.json",
+              "ToolTip": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\appsettings.json",
+              "RelativeToolTip": "Web_ECommerce\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T15:29:51.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProdutosController.cs",
-              "DocumentMoniker": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Controllers\\ProdutosController.cs",
-              "RelativeDocumentMoniker": "Web_ECommerce\\Controllers\\ProdutosController.cs",
-              "ToolTip": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Controllers\\ProdutosController.cs",
-              "RelativeToolTip": "Web_ECommerce\\Controllers\\ProdutosController.cs",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAcwJ4AAAAJAAAAAAAAAA==",
+              "Title": "ContextBase.cs",
+              "DocumentMoniker": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Configuration\\ContextBase.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configuration\\ContextBase.cs",
+              "ToolTip": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Infrastructure\\Configuration\\ContextBase.cs",
+              "RelativeToolTip": "Infrastructure\\Configuration\\ContextBase.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwDIAAACrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T11:22:34.398Z",
+              "WhenOpened": "2025-05-13T15:29:07.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web_ECommerce\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Web_ECommerce\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Web_ECommerce\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T14:12:32.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ServiceProduct.cs",
-              "DocumentMoniker": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Domain\\Services\\ServiceProduct.cs",
-              "RelativeDocumentMoniker": "Domain\\Services\\ServiceProduct.cs",
-              "ToolTip": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Domain\\Services\\ServiceProduct.cs",
-              "RelativeToolTip": "Domain\\Services\\ServiceProduct.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAiwCgAAAAJAAAAAAAAAA==",
+              "Title": "InterfaceProductApp.cs",
+              "DocumentMoniker": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\ApplicationApp\\Interfaces\\InterfaceProductApp.cs",
+              "RelativeDocumentMoniker": "ApplicationApp\\Interfaces\\InterfaceProductApp.cs",
+              "ToolTip": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\ApplicationApp\\Interfaces\\InterfaceProductApp.cs",
+              "RelativeToolTip": "ApplicationApp\\Interfaces\\InterfaceProductApp.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T11:25:06.019Z",
+              "WhenOpened": "2025-05-13T12:16:57.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IServiceProduct.cs",
-              "DocumentMoniker": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Domain\\Interfaces\\InterfaceServices\\IServiceProduct.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServices\\IServiceProduct.cs",
-              "ToolTip": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Domain\\Interfaces\\InterfaceServices\\IServiceProduct.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServices\\IServiceProduct.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AppProduct.cs",
+              "DocumentMoniker": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\ApplicationApp\\OpenApp\\AppProduct.cs",
+              "RelativeDocumentMoniker": "ApplicationApp\\OpenApp\\AppProduct.cs",
+              "ToolTip": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\ApplicationApp\\OpenApp\\AppProduct.cs",
+              "RelativeToolTip": "ApplicationApp\\OpenApp\\AppProduct.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T11:24:40.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IProduct.cs",
-              "DocumentMoniker": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Domain\\Interfaces\\InterfaceProduct\\IProduct.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceProduct\\IProduct.cs",
-              "ToolTip": "C:\\Users\\infra\\Desktop\\Ecommerce\\EcommerceAPI\\EcommerceDDD\\EcommerceDDD\\Domain\\Interfaces\\InterfaceProduct\\IProduct.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\InterfaceProduct\\IProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:01:26.882Z",
+              "WhenOpened": "2025-05-13T11:38:53.698Z",
               "EditorCaption": ""
             }
           ]

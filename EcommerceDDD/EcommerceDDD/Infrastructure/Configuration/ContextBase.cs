@@ -48,7 +48,7 @@ namespace Infrastructure.Configuration
 
         private string GetStringConectionConfig()
         {
-            string strCon = "Data Source=TIMEWARE052;Initial Catalog=DDD_ECOMMERCE;User ID=sa;Password=123456;Integrated Security=False;";
+            string strCon = "Server=tcp:devecommerce.database.windows.net,1433;Initial Catalog=ecommerce;Persist Security Info=False;User ID=usuario;Password=@Timeware2024;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
             //string de conexão usada para conectar ao SQL Server
 
             return strCon;
